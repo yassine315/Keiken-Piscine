@@ -9,3 +9,5 @@ then I scanned the network
 I've chosen the host with MAC address 38:F9:D3:58:2A:A2 (PC1) as Target1, and Retour as Target2. 
 to discover the attack I used Wireshark :
 ![Alt text](<Screenshot 2023-08-16 at 15.29.23.png>)
+For example, we can see that the MAC address of the sender comes from PC2 :
+![Alt text](image.png)
