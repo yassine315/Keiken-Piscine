@@ -6,3 +6,6 @@ Instead of using your actual password you're supposed to generate a token and lo
 ![Alt text](image-1.png)
 This command lists all mailboxes:
 ![Alt text](image-2.png)
+# Telnet 
+Telnet is a network protocol and application that enables a user to remotely access and interact with a computer or networking device over a network, typically the Internet. It operates in a client-server model, where the client-side software (known as a "Telnet client") connects to the server-side software (the "Telnet server") to establish a text-based communication session.
+![Alt text](image-3.png)
